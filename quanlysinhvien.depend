@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1558670921 source:d:\code c\ninjaproject\quanlysinhvien\main.cpp
+	<iostream>
+	<MonHoc.h>
+
+1558672118 d:\code c\ninjaproject\quanlysinhvien\monhoc.h
+	<bits/stdc++.h>
+
